@@ -37,7 +37,7 @@ When a user clicks on a specific color in the given image (JPG file), the progra
 
 ## Screenshot
 
-!\[color-ss](https://github.com/user-attachments/assets/2d5f809f-be15-4e8f-a52c-ad38d146171a)
+!\[color-ss](https://chatgpt.com/backend-api/estuary/content?id=file_00000000bef071f8ac9a34fa28f70cb2&ts=495300&p=fs&cid=1&sig=3c522ec61cb511433c8945ee9bf03ece547fa8901c3d870e042ac0e714e19a14&v=0)
 
 
 
