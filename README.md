@@ -22,7 +22,7 @@ Once a color is selected by the user, the program verifies whether it matches th
 Output Format
 When a user clicks on a specific color in the given image (JPG file), the program displays the name and RGB values of the color in string format.
 Screenshot
-![color-ss](https://github.com/user-attachments/assets/2d5f809f-be15-4e8f-a52c-ad38d146171a)
+![color-ss]
 
 Requirements
 Python 3.x
